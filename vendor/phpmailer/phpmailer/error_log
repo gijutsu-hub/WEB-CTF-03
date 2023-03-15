@@ -1,0 +1,20 @@
+[23-Dec-2022 22:07:17 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/dsphorg/public_html/challenges.dsph.org/damncon/C2/vendor/phpmailer/phpmailer/get_oauth_token.php on line 73
+[23-Dec-2022 22:07:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dsphorg/public_html/challenges.dsph.org/damncon/C2/vendor/phpmailer/phpmailer/get_oauth_token.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/dsphorg/public_html/challenges.dsph.org/damncon/C2/vendor/phpmailer/phpmailer/get_oauth_token.php on line 73
+[23-Dec-2022 22:14:48 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/dsphorg/public_html/challenges.dsph.org/damncon/C2/vendor/phpmailer/phpmailer/get_oauth_token.php on line 73
+[23-Dec-2022 22:14:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dsphorg/public_html/challenges.dsph.org/damncon/C2/vendor/phpmailer/phpmailer/get_oauth_token.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/dsphorg/public_html/challenges.dsph.org/damncon/C2/vendor/phpmailer/phpmailer/get_oauth_token.php on line 73
+[23-Dec-2022 22:22:55 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/dsphorg/public_html/challenges.dsph.org/damncon/C2/vendor/phpmailer/phpmailer/get_oauth_token.php on line 73
+[23-Dec-2022 22:22:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dsphorg/public_html/challenges.dsph.org/damncon/C2/vendor/phpmailer/phpmailer/get_oauth_token.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/dsphorg/public_html/challenges.dsph.org/damncon/C2/vendor/phpmailer/phpmailer/get_oauth_token.php on line 73
+[23-Dec-2022 22:23:03 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/dsphorg/public_html/challenges.dsph.org/damncon/C2/vendor/phpmailer/phpmailer/get_oauth_token.php on line 73
+[23-Dec-2022 22:23:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dsphorg/public_html/challenges.dsph.org/damncon/C2/vendor/phpmailer/phpmailer/get_oauth_token.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/dsphorg/public_html/challenges.dsph.org/damncon/C2/vendor/phpmailer/phpmailer/get_oauth_token.php on line 73

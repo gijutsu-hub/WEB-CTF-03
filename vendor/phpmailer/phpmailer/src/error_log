@@ -1,0 +1,8 @@
+[23-Dec-2022 22:37:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/dsphorg/public_html/challenges.dsph.org/damncon/C2/vendor/phpmailer/phpmailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dsphorg/public_html/challenges.dsph.org/damncon/C2/vendor/phpmailer/phpmailer/src/OAuth.php on line 36
+[23-Dec-2022 22:38:04 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/dsphorg/public_html/challenges.dsph.org/damncon/C2/vendor/phpmailer/phpmailer/src/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dsphorg/public_html/challenges.dsph.org/damncon/C2/vendor/phpmailer/phpmailer/src/OAuth.php on line 36
